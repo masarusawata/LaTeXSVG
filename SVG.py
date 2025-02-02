@@ -4,7 +4,6 @@ import hashlib
 import glob
 import re
 
-# TODO キャッシュの削除プログラム（数メガバイトを超えたら古いやつを消す）
 
 path = __file__[:__file__.rfind('\\')]
 
